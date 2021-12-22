@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jhoyce Helen 
 
 
-- 🌱 Estudando Javascript 
+- 🌱 Software Development 
 - 📧 Contate-me no email: jhoycehelen93@gmail.com 
 - 😄 Pronouns: ela/dela 
 
